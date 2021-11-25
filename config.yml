@@ -1,0 +1,13 @@
+server:
+  port: 3355
+spring:
+  application:
+    name: config-client
+  rabbitmq:
+    virtual-host: /ems
+    host: 101.201.196.173
+    port: 5672
+    username: ems
+    password: ems  
+config:
+  info: ---
