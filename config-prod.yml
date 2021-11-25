@@ -1,0 +1,4 @@
+config:
+  info: prod1
+server:
+  port: 3366
